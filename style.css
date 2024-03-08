@@ -1,0 +1,32 @@
+h1 {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: italic;
+  color: azure;
+  text-align: center;
+  font-size:  3rem;
+}
+p{
+    color: azure;
+    text-align: center;
+}
+html{
+    background-color: black;
+}
+div{
+    color: azure;
+    width: 400px;
+    margin-left: 250px;
+    border: 10px yellow solid;
+    background-color: plum;
+    margin-top: 100px;
+
+}
+
+img{
+    border: 5px white solid;
+    width: auto;
+    margin-left: 65px;
+  
+}
